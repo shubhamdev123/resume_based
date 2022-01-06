@@ -1,1 +1,2 @@
-# resume_based
+# CodingNinjas-Resume-Project
+ Resume Project in HTML/CSS
